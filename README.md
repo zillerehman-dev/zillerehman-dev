@@ -44,6 +44,19 @@ I'm currently completing a structured **AI/ML internship**, working through week
 
 <br/>
 
+## 🏆 Highlights
+
+- ✔ Built a full **on-device sign language recognition pipeline** — MediaPipe keypoints → BiLSTM → TFLite → live inside a Flutter app
+- ✔ Took a real-world NLP classifier from ~35% to **~91% accuracy** through staged data cleaning and feature engineering
+- ✔ Completing a structured **AI/ML internship** with weekly production-style deliverables (notebooks, reports, deployed apps)
+- ✔ Comfortable across the **full ML lifecycle** — data prep, training, evaluation, and deployment (Streamlit/Gradio/TFLite)
+- ✔ Building **VoicePilot AI**, a bilingual (Urdu/English) voice-first mobile assistant, from architecture docs through implementation
+- ✔ Ship real Flutter apps with clean, feature-based architecture — not just tutorials
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&width=100%" width="100%"/>
+
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -159,6 +172,20 @@ A Convolutional Neural Network built from scratch for clothing image classificat
 
 <br/>
 
+## 🧩 Skills Snapshot
+
+| Skill Area | Level | Focus |
+|---|---|---|
+| Flutter Development | Intermediate–Advanced | Riverpod, GoRouter, clean feature-based architecture |
+| Machine Learning | Intermediate | Classification, NLP pipelines, feature engineering, model evaluation |
+| Computer Vision | Intermediate | MediaPipe keypoint extraction, CNNs, on-device TFLite inference |
+| Backend Integration | Intermediate | FastAPI, Firebase, Supabase, PostgreSQL |
+| Deployment & Delivery | Intermediate | Streamlit, Gradio, TFLite, end-to-end project packaging |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&width=100%" width="100%"/>
+
 ## 💼 Services I Can Build
 
 | Area | What I can deliver |
@@ -195,6 +222,12 @@ A Convolutional Neural Network built from scratch for clothing image classificat
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=zillerehman-dev&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+*"I don't just train models — I ship them."*
+
+⭐ Thanks for stopping by — feel free to explore my repositories.
 
 </div>
 
