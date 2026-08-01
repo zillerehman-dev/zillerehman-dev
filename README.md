@@ -3,14 +3,25 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Zille%20Rehman&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Developer%20%7C%20Flutter%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/zillerehman-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Developer;Flutter+%26+Cross-Platform+Engineer;Building+Computer+Vision+%26+NLP+Systems;Turning+Research+into+Working+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Zille+Rehman+%F0%9F%91%8B;AI+%26+Machine+Learning+Developer;Flutter+%26+Cross-Platform+Engineer;Building+Computer+Vision+%26+NLP+Systems;Turning+Research+into+Working+Products" alt="Typing SVG" />
 </a>
 
 <br/>
 
-📍 Sargodha, Punjab, Pakistan &nbsp;•&nbsp; 🎓 BS Information Technology, University of Sargodha (2022–2026) &nbsp;•&nbsp; 🟢 Open to Freelance & Collaborative Work
+<img src="https://img.shields.io/badge/status-open%20to%20freelance-2ea44f?style=flat-square"/>
+<img src="https://img.shields.io/badge/focus-AI%2FML%20%2B%20Flutter-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/building-real--world%20AI%20apps-9146FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/currently%20learning-Generative%20AI%20%26%20RAG-F7931E?style=flat-square"/>
 
-<br/>
+<br/><br/>
+
+> *"I don't just train models — I ship them."*
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,py,tensorflow,sklearn,firebase,supabase,fastapi,git,github,vscode,androidstudio&theme=dark&perline=6"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/zillerehman05/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/zillerehman-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
