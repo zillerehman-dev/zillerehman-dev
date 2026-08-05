@@ -208,7 +208,7 @@ A Convolutional Neural Network built from scratch for clothing image classificat
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&width=100%" width="100%"/>
+
 
 ## 🌍 Connect With Me
 
