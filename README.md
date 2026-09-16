@@ -44,7 +44,7 @@ I'm currently completing a structured **AI/ML internship**, working through week
 
 ## 🏆 Highlights
 
-- ✔ Built a full **on-device sign language recognition pipeline** — MediaPipe keypoints → BiLSTM → TFLite → live inside a Flutter app
+- ✔ Built a full **on-device sign language recognition pipeline** — MediaPipe keypoints → CNN → TFLite → live inside a Flutter app
 - ✔ Took a real-world NLP classifier from ~35% to **~91% accuracy** through staged data cleaning and feature engineering
 - ✔ Completing a structured **AI/ML internship** with weekly production-style deliverables (notebooks, reports, deployed apps)
 - ✔ Comfortable across the **full ML lifecycle** — data prep, training, evaluation, and deployment (Streamlit/Gradio/TFLite)
