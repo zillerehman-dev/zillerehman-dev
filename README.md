@@ -30,7 +30,7 @@
 
 ## 👋 About Me
 
-I'm an **AI/ML Developer and Flutter Engineer** based in Pakistan, finishing my final year of a BS in Information Technology. My work sits at the intersection of two things: building **mobile applications that people can actually use**, and building **AI models that solve a real, specific problem** rather than just performing well on a benchmark.
+I'm an **AI/ML Developer and Flutter Developer** based in Pakistan. My work sits at the intersection of two things: building **mobile applications that people can actually use**, and building **AI models that solve a real, specific problem** rather than just performing well on a benchmark.
 
 On the mobile side, I build cross-platform apps in **Flutter**, usually with **Riverpod** for state management, **GoRouter** for navigation, and either **Firebase** or a custom **FastAPI + PostgreSQL/Supabase** backend, depending on what the project needs.
 
