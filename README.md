@@ -6,7 +6,7 @@
   <br/><br/>
 
   <h1>Zille Rehman</h1>
-  <h3>Flutter Developer · AI & Machine Learning · Computer Vision</h3>
+  <h3>AI & Machine Learning · Computer Vision · Flutter Developer </h3>
 
   <p>
     <img src="https://img.shields.io/badge/Location-Punjab%2C%20Pakistan-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
