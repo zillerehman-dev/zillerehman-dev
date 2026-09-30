@@ -101,15 +101,16 @@ I'm currently completing a structured **AI/ML internship**, working through week
 
 ## 🚀 Featured Projects
 
-### 🤟 [Pakistani Sign Language Recognition — "Talk with Deaf"](https://github.com/zillerehman-dev/SignLanguageDetectionSystem)
-*Final Year Project — Flutter + TensorFlow Lite*
+🤟 Pakistani Sign Language Recognition — "Talk with Deaf"
 
-A mobile app that translates Pakistani Sign Language into text/speech in real time.
+Final Year Project — Flutter + TensorFlow Lite
 
-- **Pipeline:** MediaPipe hand/pose keypoint extraction → BiLSTM sequence model trained in TensorFlow → converted to TFLite for fully on-device inference
-- **App:** Flutter frontend (Riverpod + GoRouter, feature-based architecture) running the model live through the camera, with a companion Supabase backend
-- **Problem solved:** on-device, offline-capable sign recognition for a low-resource language, aimed at improving everyday communication accessibility
-- **Tech:** `Flutter` `TensorFlow` `TensorFlow Lite` `MediaPipe` `Python` `Supabase`
+A mobile application that recognizes Pakistani Sign Language and converts recognized signs into text and speech in real time.
+
+Pipeline: Camera input → MediaPipe landmark/keypoint extraction → CNN model trained in TensorFlow → TensorFlow Lite conversion → on-device inference
+App: Flutter frontend using Riverpod and GoRouter, with feature-based architecture, running the trained TFLite model with live camera input
+Problem solved: Real-time Pakistani Sign Language recognition designed to support communication between deaf and hearing individuals, with on-device inference for reduced dependence on cloud processing
+Tech: Flutter TensorFlow TensorFlow Lite CNN MediaPipe Python Supabase
 
 ---
 
