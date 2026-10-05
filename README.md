@@ -158,11 +158,7 @@ A Convolutional Neural Network built from scratch for clothing image classificat
 
 <br/>
 
-## 🛠️ Currently Building
 
-**VoicePilot AI** — a voice-first AI assistant mobile app where users speak in Urdu or English and get spoken + written AI responses back. Flutter frontend (Riverpod, GoRouter, Dio, Isar) with a FastAPI backend (Supabase Auth, PostgreSQL, Redis, Gemini), currently targeting Android. Built from a full project doc suite (architecture, database, API, security, roadmap) broken into a phased implementation plan.
-
-<br/>
 
 ## 📚 Currently Learning & Focus Areas
 
