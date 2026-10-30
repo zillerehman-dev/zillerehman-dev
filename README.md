@@ -113,7 +113,7 @@ Tech: Flutter TensorFlow TensorFlow Lite CNN MediaPipe Python Supabase
 
 ---
 
-### 🩺 [Medical Report Specialty Classifier](https://github.com/zillerehman-dev/ai-ml-internship-advance-tasks)
+### 🩺 [Medical Report Specialty Classifier](https://github.com/zillerehman-dev/Medical_Report_Classification)
 *AI/ML Internship — NLP / Text Classification*
 
 A text classification system that reads a medical transcription and predicts the medical specialty it belongs to.
