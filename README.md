@@ -100,9 +100,9 @@ I'm currently completing a structured **AI/ML internship**, working through week
 
 ## 🚀 Featured Projects
 
-🤟 Pakistani Sign Language Recognition — "Talk with Deaf"
+### 🤟 [Pakistani Sign Language Recognition — "Talk with Deaf"](https://github.com/zillerehman-dev/Medical_Report_Classification)
+*Final Year Project — Flutter + TensorFlow Lite*
 
-Final Year Project — Flutter + TensorFlow Lite
 
 A mobile application that recognizes Pakistani Sign Language and converts recognized signs into text and speech in real time.
 
